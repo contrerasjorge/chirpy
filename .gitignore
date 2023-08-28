@@ -21,3 +21,5 @@
 go.work
 
 out
+
+.DS_Store
